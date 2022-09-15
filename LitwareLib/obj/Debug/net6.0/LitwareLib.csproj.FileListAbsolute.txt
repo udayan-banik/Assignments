@@ -1,0 +1,12 @@
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\bin\Debug\net6.0\LitwareLib.deps.json
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\bin\Debug\net6.0\LitwareLib.dll
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\bin\Debug\net6.0\LitwareLib.pdb
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.dll
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\refint\LitwareLib.dll
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\LitwareLib.pdb
+E:\HMS_local\STUDY\Practice_CSharp\LitwareLib\obj\Debug\net6.0\ref\LitwareLib.dll
